@@ -10,4 +10,4 @@ Problema 2 - Menú de Restaurante
 Programa en Python que aplica promociones a productos de un restaurante utilizando matrices, funciones y estructuras condicionales.
 
 ## Autor
-Tu Nombre Completo
+Edilberto Vasco
